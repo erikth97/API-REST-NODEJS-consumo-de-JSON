@@ -1,0 +1,126 @@
+{
+    
+    "productos": [
+    {
+      "id": 1,
+      "nombre": "Leche entera",
+      "precio": 25.00,
+      "unidad_medida": "litro"
+    },
+    {
+      "id": 2,
+      "nombre": "Huevos",
+      "precio": 30.00,
+      "unidad_medida": "docena"
+    },
+    {
+      "id": 3,
+      "nombre": "Pan de caja blanco",
+      "precio": 20.00,
+      "unidad_medida": "pieza"
+    },
+    {
+      "id": 4,
+      "nombre": "Arroz blanco",
+      "precio": 35.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 5,
+      "nombre": "Frijoles negros",
+      "precio": 28.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 6,
+      "nombre": "Harina de trigo",
+      "precio": 22.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 7,
+      "nombre": "Azúcar",
+      "precio": 20.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 8,
+      "nombre": "Sal",
+      "precio": 15.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 9,
+      "nombre": "Aceite vegetal",
+      "precio": 45.00,
+      "unidad_medida": "litro"
+    },
+    {
+      "id": 10,
+      "nombre": "Café molido",
+      "precio": 50.00,
+      "unidad_medida": "250 g"
+    },
+    {
+      "id": 11,
+      "nombre": "Galletas surtidas",
+      "precio": 32.00,
+      "unidad_medida": "paquete"
+    },
+    {
+      "id": 12,
+      "nombre": "Papel higiénico",
+      "precio": 25.00,
+      "unidad_medida": "paquete"
+    },
+    {
+      "id": 13,
+      "nombre": "Jabón de baño",
+      "precio": 18.00,
+      "unidad_medida": "pieza"
+    },
+    {
+      "id": 14,
+      "nombre": "Detergente en polvo",
+      "precio": 38.00,
+      "unidad_medida": "kilo"
+    },
+    {
+      "id": 15,
+      "nombre": "Pasta de dientes",
+      "precio": 20.00,
+      "unidad_medida": "tubo"
+    },
+    {
+      "id": 16,
+      "nombre": "Shampoo",
+      "precio": 35.00,
+      "unidad_medida": "botella"
+    },
+    {
+      "id": 17,
+      "nombre": "Suavizante de telas",
+      "precio": 40.00,
+      "unidad_medida": "litro"
+    },
+    {
+      "id": 18,
+      "nombre": "Agua purificada",
+      "precio": 15.00,
+      "unidad_medida": "litro"
+    },
+    {
+      "id": 19,
+      "nombre": "Refresco de cola",
+      "precio": 12.00,
+      "unidad_medida": "lata"
+    },
+    {
+      "id": 20,
+      "nombre": "Cerveza",
+      "precio": 25.00,
+      "unidad_medida": "lata"
+    }
+  ]
+}
+  
